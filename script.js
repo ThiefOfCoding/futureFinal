@@ -34,7 +34,7 @@ const closeButton = document.getElementById('close-btn');
 const youtubeVideo = document.getElementById('youtube-video');
 
 videoButton.addEventListener('click', function () {
-  youtubeVideo.src = 'https://www.youtube.com/embed/dQw4w9WgXcQ'; // Replace with your desired video URL
+  youtubeVideo.src = 'https://www.youtube.com/embed/PazAofvr30A'; // Replace with your desired video URL
   videoPopup.style.display = 'flex';
 });
 
